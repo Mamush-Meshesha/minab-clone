@@ -9,8 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.6",
+    "@vueuse/core": "^10.9.0",
+    "leaflet": "^1.9.4",
     "vue": "^3.3.11",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "vue3-leaflet": "^1.0.48"
   },
   "devDependencies": {
     "@iconify/vue": "^4.1.1",

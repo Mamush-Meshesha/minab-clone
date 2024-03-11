@@ -8,21 +8,26 @@
             About
           </h1>
           <p class="w-3/4 font-serif text-xl text-[#939393]">
-            Founded in 2014 by three college friends in Addis Ababa. Minab IT
-            Solutions Plc is a technology solutions provider with teams in Addis
-            Ababa, Hawassa, Mekelle, Adama, Diredawa, Debre Birhan, Bahir Dar,
-            Bulbula, Bure, Yirgalem and Kombolcha. Minab is a technology
-            consulting and cloud platforms development firm that has worked on
-            several governments and international development organization
-            projects in Ethiopia, Nigeria, Mali, Morocco, Ghana, etc. Among
-            others, our implementation sector includes jobs matching services,
-            data analysis, and reporting tools, enterprise process automation,
-            and property management solutions affording us an excellent
-            reputation with our clients in delivering outstanding results as
-            evidenced in their testimonies. We have a testified willingness to
-            take ownership of issue analysis and resolution efforts and
-            commitment to resolving technical issues regardless of effort or
-            time scoped of any engagement.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi
+            expedita deserunt itaque fugit, aut, ipsum numquam totam saepe iure
+            esse quam corporis? Distinctio aspernatur atque voluptates
+            voluptatum facere quia dignissimos? Veniam porro, asperiores minus
+            laboriosam recusandae corporis voluptate, autem ullam tenetur dolor
+            dolores labore, architecto animi aperiam quaerat. Facilis, officiis.
+            Ipsum placeat saepe tenetur nostrum cumque? Excepturi, et
+            repudiandae! Necessitatibus aspernatur sed vitae cumque minus quod
+          ratione natus? Aliquam
+            reprehenderit neque veritatis numquam dignissimos explicabo ratione
+            ut, nulla magnam pariatur cupiditate repellat iure exercitationem
+            repudiandae maxime. Provident, rem ea alias quas qui maiores
+            dolores, voluptatem illum voluptatum ratione expedita porro cum
+            sequi soluta magni quam quos laborum excepturi saepe illo nesciunt
+            quo neque fuga. Mollitia dolor ipsam veniam porro natus, quo
+            voluptas quia, laudantium delectus harum quas eaque provident
+            eligendi accusamus cumque, aspernatur sunt id obcaecati molestias
+            earum! Architecto recusandae neque natus eum quisquam. Nostrum dolor
+            commodi est minima enim. Temporibus aut, placeat veritatis quia
+          
           </p>
           <button class="pt-14 text-[#9868af] text-xl font-serif">
             Read more

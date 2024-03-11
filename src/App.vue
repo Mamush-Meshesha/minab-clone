@@ -2,6 +2,10 @@
 import { RouterLink, RouterView } from "vue-router";
 import Head from "@/components/Head.vue";
 import About from "@/views/About.vue";
+import team from "./views/team.vue";
+import contact from "./views/contact.vue";
+import project from "./views/project.vue";
+import Service from "./views/Service.vue";
 import { Icon } from "@iconify/vue";
 import { ref } from "vue";
 
@@ -24,9 +28,9 @@ const background = ref(
       <div class="absolute inset-0 flex z-0 pt-20 justify-center">
         <div class="flex flex-col">
           <img
-            src="https://www.minabtech.com/images/min_logo.png"
+            src="https://cdn.freebiesupply.com/logos/large/2x/responsible-care-logo-png-transparent.png"
             alt=""
-            class="w-[650px] h-[230px]"
+            class="w-[650px] h-[230px] object-contain"
           />
           <h1
             class="text-6xl py-20 text-white text-center font-bold leading-[80px] font-serif"
@@ -50,5 +54,10 @@ const background = ref(
       </div>
     </div>
     <RouterView />
+    <About />
+    <team />
+    <Service />
+    <project />
+    <contact />
   </div>
 </template>
